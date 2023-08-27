@@ -1,0 +1,2 @@
+
+echo "Name: Sushant\nSkills: HTML, CSS, JS,React js,Node js,Mongodb,React Native,python,Next.js\nEmail: sushantsaud9804@gmail.com" > me.txt
